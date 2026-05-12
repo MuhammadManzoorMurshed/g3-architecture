@@ -4,7 +4,7 @@ A modern, fully responsive landing page template for an architecture agency. Thi
 
 ## 🚀 Live Demo
 
-[Live Demo](https://muhammadmanzoommurshed.github.io/g3-architecture/)
+[Live Demo](https://g3-architecture-bd.netlify.app/)
 
 ## ✨ Features
 
